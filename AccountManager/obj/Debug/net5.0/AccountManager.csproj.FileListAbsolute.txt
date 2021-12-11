@@ -1,0 +1,411 @@
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\appsettings.Development.json
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\appsettings.json
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\AccountManager.StaticWebAssets.xml
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\AccountManager.exe
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\AccountManager.deps.json
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\AccountManager.runtimeconfig.json
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\AccountManager.runtimeconfig.dev.json
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\AccountManager.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\ref\AccountManager.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\AccountManager.pdb
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\AccountManager.Views.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\AccountManager.Views.pdb
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\AngleSharp.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\AngleSharp.Css.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\Autofac.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\Autofac.Extensions.DependencyInjection.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\AutoMapper.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\ElmahCore.Mvc.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\ElmahCore.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\ElmahCore.Sql.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\FluentValidation.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\HtmlAgilityPack.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\HtmlSanitizer.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\System.Web.Http.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\Microsoft.AspNetCore.Authorization.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\Microsoft.AspNetCore.Metadata.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\Pluralize.NET.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\Scrutor.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\SecuritySwitch.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\Swashbuckle.AspNetCore.Annotations.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\Swashbuckle.AspNetCore.Filters.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\Swashbuckle.AspNetCore.ReDoc.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\System.Linq.Dynamic.Core.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\common.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\Data.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\Entities.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\Services.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\ViewModels.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\WebFramework.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\WebFramework.pdb
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\common.pdb
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\Data.pdb
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\Entities.pdb
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\Services.pdb
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\ViewModels.pdb
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\obj\Debug\net5.0\AccountManager.csprojAssemblyReference.cache
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\obj\Debug\net5.0\AccountManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\obj\Debug\net5.0\AccountManager.AssemblyInfoInputs.cache
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\obj\Debug\net5.0\AccountManager.AssemblyInfo.cs
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\obj\Debug\net5.0\AccountManager.csproj.CoreCompileInputs.cache
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\obj\Debug\net5.0\AccountManager.MvcApplicationPartsAssemblyInfo.cs
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\obj\Debug\net5.0\AccountManager.MvcApplicationPartsAssemblyInfo.cache
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\obj\Debug\net5.0\AccountManager.RazorAssemblyInfo.cache
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\obj\Debug\net5.0\AccountManager.RazorAssemblyInfo.cs
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\obj\Debug\net5.0\staticwebassets\AccountManager.StaticWebAssets.Manifest.cache
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\obj\Debug\net5.0\staticwebassets\AccountManager.StaticWebAssets.xml
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\obj\Debug\net5.0\scopedcss\bundle\AccountManager.styles.css
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\obj\Debug\net5.0\AccountManager.TagHelpers.input.cache
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\obj\Debug\net5.0\AccountManager.TagHelpers.output.cache
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\obj\Debug\net5.0\AccountManager.RazorCoreGenerate.cache
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\obj\Debug\net5.0\Razor\Views\Emails\ActivateAccount.cshtml.g.cs
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\obj\Debug\net5.0\AccountManager.RazorTargetAssemblyInfo.cache
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\obj\Debug\net5.0\AccountManager.RazorTargetAssemblyInfo.cs
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\obj\Debug\net5.0\AccountManager.Views.pdb
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\obj\Debug\net5.0\AccountManager.csproj.CopyComplete
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\obj\Debug\net5.0\AccountManager.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\obj\Debug\net5.0\ref\AccountManager.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\obj\Debug\net5.0\AccountManager.pdb
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\obj\Debug\net5.0\AccountManager.genruntimeconfig.cache
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\System.Linq.Async.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\AccountManager\bin\Debug\net5.0\MD.PersianDateTime.Standard.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\appsettings.Development.json
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\appsettings.json
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\AccountManager.StaticWebAssets.xml
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\AccountManager.exe
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\AccountManager.deps.json
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\AccountManager.runtimeconfig.json
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\AccountManager.runtimeconfig.dev.json
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\AccountManager.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\ref\AccountManager.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\AccountManager.pdb
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\AccountManager.Views.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\AccountManager.Views.pdb
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\AngleSharp.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\AngleSharp.Css.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\Autofac.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\Autofac.Extensions.DependencyInjection.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\AutoMapper.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\ElmahCore.Mvc.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\ElmahCore.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\ElmahCore.Sql.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\FluentValidation.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\HtmlAgilityPack.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\HtmlSanitizer.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\MD.PersianDateTime.Standard.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\System.Web.Http.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\Microsoft.AspNetCore.Authorization.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\Microsoft.AspNetCore.Metadata.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\Pluralize.NET.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\Scrutor.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\SecuritySwitch.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\Swashbuckle.AspNetCore.Annotations.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\Swashbuckle.AspNetCore.Filters.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\Swashbuckle.AspNetCore.ReDoc.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\System.Linq.Async.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\System.Linq.Dynamic.Core.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\common.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\Data.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\Entities.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\Services.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\ViewModels.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\WebFramework.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\WebFramework.pdb
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\common.pdb
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\Data.pdb
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\Entities.pdb
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\Services.pdb
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\ViewModels.pdb
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\obj\Debug\net5.0\AccountManager.csprojAssemblyReference.cache
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\obj\Debug\net5.0\AccountManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\obj\Debug\net5.0\AccountManager.AssemblyInfoInputs.cache
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\obj\Debug\net5.0\AccountManager.AssemblyInfo.cs
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\obj\Debug\net5.0\AccountManager.csproj.CoreCompileInputs.cache
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\obj\Debug\net5.0\AccountManager.MvcApplicationPartsAssemblyInfo.cs
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\obj\Debug\net5.0\AccountManager.MvcApplicationPartsAssemblyInfo.cache
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\obj\Debug\net5.0\AccountManager.RazorAssemblyInfo.cache
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\obj\Debug\net5.0\AccountManager.RazorAssemblyInfo.cs
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\obj\Debug\net5.0\staticwebassets\AccountManager.StaticWebAssets.Manifest.cache
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\obj\Debug\net5.0\staticwebassets\AccountManager.StaticWebAssets.xml
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\obj\Debug\net5.0\scopedcss\bundle\AccountManager.styles.css
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\obj\Debug\net5.0\AccountManager.TagHelpers.input.cache
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\obj\Debug\net5.0\AccountManager.TagHelpers.output.cache
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\obj\Debug\net5.0\AccountManager.RazorCoreGenerate.cache
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\obj\Debug\net5.0\Razor\Views\Emails\ActivateAccount.cshtml.g.cs
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\obj\Debug\net5.0\AccountManager.RazorTargetAssemblyInfo.cache
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\obj\Debug\net5.0\AccountManager.RazorTargetAssemblyInfo.cs
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\obj\Debug\net5.0\AccountManager.Views.pdb
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\obj\Debug\net5.0\AccountManager.csproj.CopyComplete
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\obj\Debug\net5.0\AccountManager.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\obj\Debug\net5.0\ref\AccountManager.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\obj\Debug\net5.0\AccountManager.pdb
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\obj\Debug\net5.0\AccountManager.genruntimeconfig.cache
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\obj\Debug\net5.0\Razor\Views\ResetPassword\ResetPassword.cshtml.g.cs
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\bin\Debug\net5.0\Kavenegar.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\AccountManager\obj\Debug\net5.0\Razor\Views\2StepVerification\2StepVerification.cshtml.g.cs
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\appsettings.Development.json
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\appsettings.json
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\AccountManager.StaticWebAssets.xml
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\AccountManager.exe
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\AccountManager.deps.json
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\AccountManager.runtimeconfig.json
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\AccountManager.runtimeconfig.dev.json
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\AccountManager.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\ref\AccountManager.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\AccountManager.pdb
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\AccountManager.Views.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\AccountManager.Views.pdb
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\AngleSharp.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\AngleSharp.Css.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\Autofac.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\Autofac.Extensions.DependencyInjection.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\AutoMapper.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\ElmahCore.Mvc.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\ElmahCore.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\ElmahCore.Sql.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\FluentValidation.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\HtmlAgilityPack.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\HtmlSanitizer.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\Kavenegar.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\MD.PersianDateTime.Standard.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\System.Web.Http.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\Microsoft.AspNetCore.Authorization.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\Microsoft.AspNetCore.Metadata.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\Pluralize.NET.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\Scrutor.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\SecuritySwitch.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\Swashbuckle.AspNetCore.Annotations.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\Swashbuckle.AspNetCore.Filters.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\Swashbuckle.AspNetCore.ReDoc.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\System.Linq.Async.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\System.Linq.Dynamic.Core.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\common.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\Data.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\Entities.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\Services.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\ViewModels.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\WebFramework.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\WebFramework.pdb
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\common.pdb
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\Data.pdb
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\Entities.pdb
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\Services.pdb
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\bin\Debug\net5.0\ViewModels.pdb
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\obj\Debug\net5.0\AccountManager.csprojAssemblyReference.cache
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\obj\Debug\net5.0\AccountManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\obj\Debug\net5.0\AccountManager.AssemblyInfoInputs.cache
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\obj\Debug\net5.0\AccountManager.AssemblyInfo.cs
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\obj\Debug\net5.0\AccountManager.csproj.CoreCompileInputs.cache
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\obj\Debug\net5.0\AccountManager.MvcApplicationPartsAssemblyInfo.cs
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\obj\Debug\net5.0\AccountManager.MvcApplicationPartsAssemblyInfo.cache
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\obj\Debug\net5.0\AccountManager.RazorAssemblyInfo.cache
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\obj\Debug\net5.0\AccountManager.RazorAssemblyInfo.cs
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\obj\Debug\net5.0\staticwebassets\AccountManager.StaticWebAssets.Manifest.cache
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\obj\Debug\net5.0\staticwebassets\AccountManager.StaticWebAssets.xml
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\obj\Debug\net5.0\scopedcss\bundle\AccountManager.styles.css
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\obj\Debug\net5.0\AccountManager.TagHelpers.input.cache
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\obj\Debug\net5.0\AccountManager.TagHelpers.output.cache
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\obj\Debug\net5.0\AccountManager.RazorCoreGenerate.cache
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\obj\Debug\net5.0\Razor\Views\2StepVerification\2StepVerification.cshtml.g.cs
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\obj\Debug\net5.0\Razor\Views\Emails\ActivateAccount.cshtml.g.cs
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\obj\Debug\net5.0\Razor\Views\ResetPassword\ResetPassword.cshtml.g.cs
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\obj\Debug\net5.0\AccountManager.RazorTargetAssemblyInfo.cache
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\obj\Debug\net5.0\AccountManager.RazorTargetAssemblyInfo.cs
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\obj\Debug\net5.0\AccountManager.Views.pdb
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\obj\Debug\net5.0\AccountManager.csproj.CopyComplete
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\obj\Debug\net5.0\AccountManager.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\obj\Debug\net5.0\ref\AccountManager.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\obj\Debug\net5.0\AccountManager.pdb
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\AccountManager\obj\Debug\net5.0\AccountManager.genruntimeconfig.cache

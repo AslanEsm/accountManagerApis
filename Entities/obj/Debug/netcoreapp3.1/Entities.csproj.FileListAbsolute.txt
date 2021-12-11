@@ -1,0 +1,12 @@
+D:\Course-samples\Api\Train\AccountManager\Entities\bin\Debug\netcoreapp3.1\Entities.deps.json
+D:\Course-samples\Api\Train\AccountManager\Entities\bin\Debug\netcoreapp3.1\Entities.dll
+D:\Course-samples\Api\Train\AccountManager\Entities\bin\Debug\netcoreapp3.1\Entities.pdb
+D:\Course-samples\Api\Train\AccountManager\Entities\bin\Debug\netcoreapp3.1\common.dll
+D:\Course-samples\Api\Train\AccountManager\Entities\bin\Debug\netcoreapp3.1\common.pdb
+D:\Course-samples\Api\Train\AccountManager\Entities\obj\Debug\netcoreapp3.1\Entities.csprojAssemblyReference.cache
+D:\Course-samples\Api\Train\AccountManager\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+D:\Course-samples\Api\Train\AccountManager\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+D:\Course-samples\Api\Train\AccountManager\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
+D:\Course-samples\Api\Train\AccountManager\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CopyComplete
+D:\Course-samples\Api\Train\AccountManager\Entities\obj\Debug\netcoreapp3.1\Entities.dll
+D:\Course-samples\Api\Train\AccountManager\Entities\obj\Debug\netcoreapp3.1\Entities.pdb

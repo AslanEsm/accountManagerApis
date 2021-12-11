@@ -1,0 +1,60 @@
+D:\Course-samples\Api\Train\AccountManager\common\bin\Debug\net5.0\common.deps.json
+D:\Course-samples\Api\Train\AccountManager\common\bin\Debug\net5.0\common.runtimeconfig.json
+D:\Course-samples\Api\Train\AccountManager\common\bin\Debug\net5.0\common.runtimeconfig.dev.json
+D:\Course-samples\Api\Train\AccountManager\common\bin\Debug\net5.0\common.dll
+D:\Course-samples\Api\Train\AccountManager\common\bin\Debug\net5.0\ref\common.dll
+D:\Course-samples\Api\Train\AccountManager\common\bin\Debug\net5.0\common.pdb
+D:\Course-samples\Api\Train\AccountManager\common\obj\Debug\net5.0\common.csprojAssemblyReference.cache
+D:\Course-samples\Api\Train\AccountManager\common\obj\Debug\net5.0\common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Course-samples\Api\Train\AccountManager\common\obj\Debug\net5.0\common.AssemblyInfoInputs.cache
+D:\Course-samples\Api\Train\AccountManager\common\obj\Debug\net5.0\common.AssemblyInfo.cs
+D:\Course-samples\Api\Train\AccountManager\common\obj\Debug\net5.0\common.csproj.CoreCompileInputs.cache
+D:\Course-samples\Api\Train\AccountManager\common\obj\Debug\net5.0\common.dll
+D:\Course-samples\Api\Train\AccountManager\common\obj\Debug\net5.0\ref\common.dll
+D:\Course-samples\Api\Train\AccountManager\common\obj\Debug\net5.0\common.pdb
+D:\Course-samples\Api\Train\AccountManager\common\obj\Debug\net5.0\common.genruntimeconfig.cache
+D:\Course-samples\Api\Train\AccountManager - Copy\common\bin\Debug\net5.0\common.deps.json
+D:\Course-samples\Api\Train\AccountManager - Copy\common\bin\Debug\net5.0\common.runtimeconfig.json
+D:\Course-samples\Api\Train\AccountManager - Copy\common\bin\Debug\net5.0\common.runtimeconfig.dev.json
+D:\Course-samples\Api\Train\AccountManager - Copy\common\bin\Debug\net5.0\common.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\common\bin\Debug\net5.0\ref\common.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\common\bin\Debug\net5.0\common.pdb
+D:\Course-samples\Api\Train\AccountManager - Copy\common\obj\Debug\net5.0\common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Course-samples\Api\Train\AccountManager - Copy\common\obj\Debug\net5.0\common.AssemblyInfoInputs.cache
+D:\Course-samples\Api\Train\AccountManager - Copy\common\obj\Debug\net5.0\common.AssemblyInfo.cs
+D:\Course-samples\Api\Train\AccountManager - Copy\common\obj\Debug\net5.0\common.csproj.CoreCompileInputs.cache
+D:\Course-samples\Api\Train\AccountManager - Copy\common\obj\Debug\net5.0\common.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\common\obj\Debug\net5.0\ref\common.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\common\obj\Debug\net5.0\common.pdb
+D:\Course-samples\Api\Train\AccountManager - Copy\common\obj\Debug\net5.0\common.genruntimeconfig.cache
+D:\Course-samples\Api\Train\AccountManager - Copy\common\obj\Debug\net5.0\common.csprojAssemblyReference.cache
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\common\bin\Debug\net5.0\common.deps.json
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\common\bin\Debug\net5.0\common.runtimeconfig.json
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\common\bin\Debug\net5.0\common.runtimeconfig.dev.json
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\common\bin\Debug\net5.0\common.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\common\bin\Debug\net5.0\ref\common.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\common\bin\Debug\net5.0\common.pdb
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\common\obj\Debug\net5.0\common.csprojAssemblyReference.cache
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\common\obj\Debug\net5.0\common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\common\obj\Debug\net5.0\common.AssemblyInfoInputs.cache
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\common\obj\Debug\net5.0\common.AssemblyInfo.cs
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\common\obj\Debug\net5.0\common.csproj.CoreCompileInputs.cache
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\common\obj\Debug\net5.0\common.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\common\obj\Debug\net5.0\ref\common.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\common\obj\Debug\net5.0\common.pdb
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\common\obj\Debug\net5.0\common.genruntimeconfig.cache
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\common\bin\Debug\net5.0\common.deps.json
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\common\bin\Debug\net5.0\common.runtimeconfig.json
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\common\bin\Debug\net5.0\common.runtimeconfig.dev.json
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\common\bin\Debug\net5.0\common.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\common\bin\Debug\net5.0\ref\common.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\common\bin\Debug\net5.0\common.pdb
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\common\obj\Debug\net5.0\common.csprojAssemblyReference.cache
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\common\obj\Debug\net5.0\common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\common\obj\Debug\net5.0\common.AssemblyInfoInputs.cache
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\common\obj\Debug\net5.0\common.AssemblyInfo.cs
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\common\obj\Debug\net5.0\common.csproj.CoreCompileInputs.cache
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\common\obj\Debug\net5.0\common.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\common\obj\Debug\net5.0\ref\common.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\common\obj\Debug\net5.0\common.pdb
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\common\obj\Debug\net5.0\common.genruntimeconfig.cache

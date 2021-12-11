@@ -1,0 +1,63 @@
+D:\Course-samples\Api\Train\AccountManager - Copy\Services\bin\Debug\net5.0\Services.deps.json
+D:\Course-samples\Api\Train\AccountManager - Copy\Services\bin\Debug\net5.0\Services.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\Services\bin\Debug\net5.0\ref\Services.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\Services\bin\Debug\net5.0\Services.pdb
+D:\Course-samples\Api\Train\AccountManager - Copy\Services\bin\Debug\net5.0\common.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\Services\bin\Debug\net5.0\Data.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\Services\bin\Debug\net5.0\Entities.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\Services\bin\Debug\net5.0\ViewModels.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\Services\bin\Debug\net5.0\Data.pdb
+D:\Course-samples\Api\Train\AccountManager - Copy\Services\bin\Debug\net5.0\common.pdb
+D:\Course-samples\Api\Train\AccountManager - Copy\Services\bin\Debug\net5.0\Entities.pdb
+D:\Course-samples\Api\Train\AccountManager - Copy\Services\bin\Debug\net5.0\ViewModels.pdb
+D:\Course-samples\Api\Train\AccountManager - Copy\Services\obj\Debug\net5.0\Services.csprojAssemblyReference.cache
+D:\Course-samples\Api\Train\AccountManager - Copy\Services\obj\Debug\net5.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Course-samples\Api\Train\AccountManager - Copy\Services\obj\Debug\net5.0\Services.AssemblyInfoInputs.cache
+D:\Course-samples\Api\Train\AccountManager - Copy\Services\obj\Debug\net5.0\Services.AssemblyInfo.cs
+D:\Course-samples\Api\Train\AccountManager - Copy\Services\obj\Debug\net5.0\Services.csproj.CoreCompileInputs.cache
+D:\Course-samples\Api\Train\AccountManager - Copy\Services\obj\Debug\net5.0\Services.csproj.CopyComplete
+D:\Course-samples\Api\Train\AccountManager - Copy\Services\obj\Debug\net5.0\Services.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\Services\obj\Debug\net5.0\ref\Services.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\Services\obj\Debug\net5.0\Services.pdb
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\Services\bin\Debug\net5.0\Services.deps.json
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\Services\bin\Debug\net5.0\Services.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\Services\bin\Debug\net5.0\ref\Services.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\Services\bin\Debug\net5.0\Services.pdb
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\Services\bin\Debug\net5.0\common.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\Services\bin\Debug\net5.0\Data.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\Services\bin\Debug\net5.0\Entities.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\Services\bin\Debug\net5.0\ViewModels.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\Services\bin\Debug\net5.0\Data.pdb
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\Services\bin\Debug\net5.0\common.pdb
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\Services\bin\Debug\net5.0\Entities.pdb
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\Services\bin\Debug\net5.0\ViewModels.pdb
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\Services\obj\Debug\net5.0\Services.csprojAssemblyReference.cache
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\Services\obj\Debug\net5.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\Services\obj\Debug\net5.0\Services.AssemblyInfoInputs.cache
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\Services\obj\Debug\net5.0\Services.AssemblyInfo.cs
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\Services\obj\Debug\net5.0\Services.csproj.CoreCompileInputs.cache
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\Services\obj\Debug\net5.0\Services.csproj.CopyComplete
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\Services\obj\Debug\net5.0\Services.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\Services\obj\Debug\net5.0\ref\Services.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\Services\obj\Debug\net5.0\Services.pdb
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\Services\bin\Debug\net5.0\Services.deps.json
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\Services\bin\Debug\net5.0\Services.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\Services\bin\Debug\net5.0\ref\Services.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\Services\bin\Debug\net5.0\Services.pdb
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\Services\bin\Debug\net5.0\common.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\Services\bin\Debug\net5.0\Data.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\Services\bin\Debug\net5.0\Entities.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\Services\bin\Debug\net5.0\ViewModels.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\Services\bin\Debug\net5.0\Data.pdb
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\Services\bin\Debug\net5.0\common.pdb
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\Services\bin\Debug\net5.0\Entities.pdb
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\Services\bin\Debug\net5.0\ViewModels.pdb
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\Services\obj\Debug\net5.0\Services.csprojAssemblyReference.cache
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\Services\obj\Debug\net5.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\Services\obj\Debug\net5.0\Services.AssemblyInfoInputs.cache
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\Services\obj\Debug\net5.0\Services.AssemblyInfo.cs
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\Services\obj\Debug\net5.0\Services.csproj.CoreCompileInputs.cache
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\Services\obj\Debug\net5.0\Services.csproj.CopyComplete
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\Services\obj\Debug\net5.0\Services.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\Services\obj\Debug\net5.0\ref\Services.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\Services\obj\Debug\net5.0\Services.pdb

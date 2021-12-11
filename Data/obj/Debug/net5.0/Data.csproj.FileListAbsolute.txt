@@ -1,0 +1,88 @@
+D:\Course-samples\Api\Train\AccountManager\Data\bin\Debug\net5.0\Data.deps.json
+D:\Course-samples\Api\Train\AccountManager\Data\bin\Debug\net5.0\Data.runtimeconfig.json
+D:\Course-samples\Api\Train\AccountManager\Data\bin\Debug\net5.0\Data.runtimeconfig.dev.json
+D:\Course-samples\Api\Train\AccountManager\Data\bin\Debug\net5.0\Data.dll
+D:\Course-samples\Api\Train\AccountManager\Data\bin\Debug\net5.0\ref\Data.dll
+D:\Course-samples\Api\Train\AccountManager\Data\bin\Debug\net5.0\Data.pdb
+D:\Course-samples\Api\Train\AccountManager\Data\bin\Debug\net5.0\common.dll
+D:\Course-samples\Api\Train\AccountManager\Data\bin\Debug\net5.0\Entities.dll
+D:\Course-samples\Api\Train\AccountManager\Data\bin\Debug\net5.0\Entities.pdb
+D:\Course-samples\Api\Train\AccountManager\Data\bin\Debug\net5.0\common.pdb
+D:\Course-samples\Api\Train\AccountManager\Data\obj\Debug\net5.0\Data.csprojAssemblyReference.cache
+D:\Course-samples\Api\Train\AccountManager\Data\obj\Debug\net5.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Course-samples\Api\Train\AccountManager\Data\obj\Debug\net5.0\Data.AssemblyInfoInputs.cache
+D:\Course-samples\Api\Train\AccountManager\Data\obj\Debug\net5.0\Data.AssemblyInfo.cs
+D:\Course-samples\Api\Train\AccountManager\Data\obj\Debug\net5.0\Data.csproj.CoreCompileInputs.cache
+D:\Course-samples\Api\Train\AccountManager\Data\obj\Debug\net5.0\Data.csproj.CopyComplete
+D:\Course-samples\Api\Train\AccountManager\Data\obj\Debug\net5.0\Data.dll
+D:\Course-samples\Api\Train\AccountManager\Data\obj\Debug\net5.0\ref\Data.dll
+D:\Course-samples\Api\Train\AccountManager\Data\obj\Debug\net5.0\Data.pdb
+D:\Course-samples\Api\Train\AccountManager\Data\obj\Debug\net5.0\Data.genruntimeconfig.cache
+D:\Course-samples\Api\Train\AccountManager\Data\bin\Debug\net5.0\ViewModels.dll
+D:\Course-samples\Api\Train\AccountManager\Data\bin\Debug\net5.0\ViewModels.pdb
+D:\Course-samples\Api\Train\AccountManager - Copy\Data\bin\Debug\net5.0\Data.deps.json
+D:\Course-samples\Api\Train\AccountManager - Copy\Data\bin\Debug\net5.0\Data.runtimeconfig.json
+D:\Course-samples\Api\Train\AccountManager - Copy\Data\bin\Debug\net5.0\Data.runtimeconfig.dev.json
+D:\Course-samples\Api\Train\AccountManager - Copy\Data\bin\Debug\net5.0\Data.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\Data\bin\Debug\net5.0\ref\Data.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\Data\bin\Debug\net5.0\Data.pdb
+D:\Course-samples\Api\Train\AccountManager - Copy\Data\bin\Debug\net5.0\common.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\Data\bin\Debug\net5.0\Entities.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\Data\bin\Debug\net5.0\ViewModels.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\Data\bin\Debug\net5.0\ViewModels.pdb
+D:\Course-samples\Api\Train\AccountManager - Copy\Data\bin\Debug\net5.0\common.pdb
+D:\Course-samples\Api\Train\AccountManager - Copy\Data\bin\Debug\net5.0\Entities.pdb
+D:\Course-samples\Api\Train\AccountManager - Copy\Data\obj\Debug\net5.0\Data.csprojAssemblyReference.cache
+D:\Course-samples\Api\Train\AccountManager - Copy\Data\obj\Debug\net5.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Course-samples\Api\Train\AccountManager - Copy\Data\obj\Debug\net5.0\Data.AssemblyInfoInputs.cache
+D:\Course-samples\Api\Train\AccountManager - Copy\Data\obj\Debug\net5.0\Data.AssemblyInfo.cs
+D:\Course-samples\Api\Train\AccountManager - Copy\Data\obj\Debug\net5.0\Data.csproj.CoreCompileInputs.cache
+D:\Course-samples\Api\Train\AccountManager - Copy\Data\obj\Debug\net5.0\Data.csproj.CopyComplete
+D:\Course-samples\Api\Train\AccountManager - Copy\Data\obj\Debug\net5.0\Data.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\Data\obj\Debug\net5.0\ref\Data.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\Data\obj\Debug\net5.0\Data.pdb
+D:\Course-samples\Api\Train\AccountManager - Copy\Data\obj\Debug\net5.0\Data.genruntimeconfig.cache
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\Data\bin\Debug\net5.0\Data.deps.json
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\Data\bin\Debug\net5.0\Data.runtimeconfig.json
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\Data\bin\Debug\net5.0\Data.runtimeconfig.dev.json
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\Data\bin\Debug\net5.0\Data.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\Data\bin\Debug\net5.0\ref\Data.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\Data\bin\Debug\net5.0\Data.pdb
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\Data\bin\Debug\net5.0\common.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\Data\bin\Debug\net5.0\Entities.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\Data\bin\Debug\net5.0\ViewModels.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\Data\bin\Debug\net5.0\ViewModels.pdb
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\Data\bin\Debug\net5.0\common.pdb
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\Data\bin\Debug\net5.0\Entities.pdb
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\Data\obj\Debug\net5.0\Data.csprojAssemblyReference.cache
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\Data\obj\Debug\net5.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\Data\obj\Debug\net5.0\Data.AssemblyInfoInputs.cache
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\Data\obj\Debug\net5.0\Data.AssemblyInfo.cs
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\Data\obj\Debug\net5.0\Data.csproj.CoreCompileInputs.cache
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\Data\obj\Debug\net5.0\Data.csproj.CopyComplete
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\Data\obj\Debug\net5.0\Data.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\Data\obj\Debug\net5.0\ref\Data.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\Data\obj\Debug\net5.0\Data.pdb
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\Data\obj\Debug\net5.0\Data.genruntimeconfig.cache
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\Data\bin\Debug\net5.0\Data.deps.json
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\Data\bin\Debug\net5.0\Data.runtimeconfig.json
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\Data\bin\Debug\net5.0\Data.runtimeconfig.dev.json
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\Data\bin\Debug\net5.0\Data.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\Data\bin\Debug\net5.0\ref\Data.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\Data\bin\Debug\net5.0\Data.pdb
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\Data\bin\Debug\net5.0\common.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\Data\bin\Debug\net5.0\Entities.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\Data\bin\Debug\net5.0\ViewModels.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\Data\bin\Debug\net5.0\ViewModels.pdb
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\Data\bin\Debug\net5.0\common.pdb
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\Data\bin\Debug\net5.0\Entities.pdb
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\Data\obj\Debug\net5.0\Data.csprojAssemblyReference.cache
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\Data\obj\Debug\net5.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\Data\obj\Debug\net5.0\Data.AssemblyInfoInputs.cache
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\Data\obj\Debug\net5.0\Data.AssemblyInfo.cs
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\Data\obj\Debug\net5.0\Data.csproj.CoreCompileInputs.cache
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\Data\obj\Debug\net5.0\Data.csproj.CopyComplete
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\Data\obj\Debug\net5.0\Data.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\Data\obj\Debug\net5.0\ref\Data.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\Data\obj\Debug\net5.0\Data.pdb
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\Data\obj\Debug\net5.0\Data.genruntimeconfig.cache

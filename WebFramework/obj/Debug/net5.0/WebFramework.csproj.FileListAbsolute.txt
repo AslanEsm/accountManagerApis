@@ -1,0 +1,92 @@
+D:\Course-samples\Api\Train\AccountManager\WebFramework\obj\Debug\net5.0\WebFramework.csprojAssemblyReference.cache
+D:\Course-samples\Api\Train\AccountManager\WebFramework\obj\Debug\net5.0\WebFramework.GeneratedMSBuildEditorConfig.editorconfig
+D:\Course-samples\Api\Train\AccountManager\WebFramework\obj\Debug\net5.0\WebFramework.AssemblyInfoInputs.cache
+D:\Course-samples\Api\Train\AccountManager\WebFramework\obj\Debug\net5.0\WebFramework.AssemblyInfo.cs
+D:\Course-samples\Api\Train\AccountManager\WebFramework\obj\Debug\net5.0\WebFramework.csproj.CoreCompileInputs.cache
+D:\Course-samples\Api\Train\AccountManager\WebFramework\bin\Debug\net5.0\WebFramework.deps.json
+D:\Course-samples\Api\Train\AccountManager\WebFramework\bin\Debug\net5.0\WebFramework.dll
+D:\Course-samples\Api\Train\AccountManager\WebFramework\bin\Debug\net5.0\ref\WebFramework.dll
+D:\Course-samples\Api\Train\AccountManager\WebFramework\bin\Debug\net5.0\WebFramework.pdb
+D:\Course-samples\Api\Train\AccountManager\WebFramework\bin\Debug\net5.0\common.dll
+D:\Course-samples\Api\Train\AccountManager\WebFramework\bin\Debug\net5.0\Data.dll
+D:\Course-samples\Api\Train\AccountManager\WebFramework\bin\Debug\net5.0\Entities.dll
+D:\Course-samples\Api\Train\AccountManager\WebFramework\bin\Debug\net5.0\Services.dll
+D:\Course-samples\Api\Train\AccountManager\WebFramework\bin\Debug\net5.0\Services.pdb
+D:\Course-samples\Api\Train\AccountManager\WebFramework\bin\Debug\net5.0\common.pdb
+D:\Course-samples\Api\Train\AccountManager\WebFramework\bin\Debug\net5.0\Data.pdb
+D:\Course-samples\Api\Train\AccountManager\WebFramework\bin\Debug\net5.0\Entities.pdb
+D:\Course-samples\Api\Train\AccountManager\WebFramework\obj\Debug\net5.0\WebFramework.csproj.CopyComplete
+D:\Course-samples\Api\Train\AccountManager\WebFramework\obj\Debug\net5.0\WebFramework.dll
+D:\Course-samples\Api\Train\AccountManager\WebFramework\obj\Debug\net5.0\ref\WebFramework.dll
+D:\Course-samples\Api\Train\AccountManager\WebFramework\obj\Debug\net5.0\WebFramework.pdb
+D:\Course-samples\Api\Train\AccountManager\WebFramework\bin\Debug\net5.0\ViewModels.dll
+D:\Course-samples\Api\Train\AccountManager\WebFramework\bin\Debug\net5.0\ViewModels.pdb
+D:\Course-samples\Api\Train\AccountManager - Copy\WebFramework\bin\Debug\net5.0\WebFramework.deps.json
+D:\Course-samples\Api\Train\AccountManager - Copy\WebFramework\bin\Debug\net5.0\WebFramework.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\WebFramework\bin\Debug\net5.0\ref\WebFramework.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\WebFramework\bin\Debug\net5.0\WebFramework.pdb
+D:\Course-samples\Api\Train\AccountManager - Copy\WebFramework\bin\Debug\net5.0\common.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\WebFramework\bin\Debug\net5.0\Data.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\WebFramework\bin\Debug\net5.0\Entities.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\WebFramework\bin\Debug\net5.0\Services.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\WebFramework\bin\Debug\net5.0\ViewModels.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\WebFramework\bin\Debug\net5.0\Services.pdb
+D:\Course-samples\Api\Train\AccountManager - Copy\WebFramework\bin\Debug\net5.0\common.pdb
+D:\Course-samples\Api\Train\AccountManager - Copy\WebFramework\bin\Debug\net5.0\Data.pdb
+D:\Course-samples\Api\Train\AccountManager - Copy\WebFramework\bin\Debug\net5.0\Entities.pdb
+D:\Course-samples\Api\Train\AccountManager - Copy\WebFramework\bin\Debug\net5.0\ViewModels.pdb
+D:\Course-samples\Api\Train\AccountManager - Copy\WebFramework\obj\Debug\net5.0\WebFramework.csprojAssemblyReference.cache
+D:\Course-samples\Api\Train\AccountManager - Copy\WebFramework\obj\Debug\net5.0\WebFramework.GeneratedMSBuildEditorConfig.editorconfig
+D:\Course-samples\Api\Train\AccountManager - Copy\WebFramework\obj\Debug\net5.0\WebFramework.AssemblyInfoInputs.cache
+D:\Course-samples\Api\Train\AccountManager - Copy\WebFramework\obj\Debug\net5.0\WebFramework.AssemblyInfo.cs
+D:\Course-samples\Api\Train\AccountManager - Copy\WebFramework\obj\Debug\net5.0\WebFramework.csproj.CoreCompileInputs.cache
+D:\Course-samples\Api\Train\AccountManager - Copy\WebFramework\obj\Debug\net5.0\WebFramework.csproj.CopyComplete
+D:\Course-samples\Api\Train\AccountManager - Copy\WebFramework\obj\Debug\net5.0\WebFramework.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\WebFramework\obj\Debug\net5.0\ref\WebFramework.dll
+D:\Course-samples\Api\Train\AccountManager - Copy\WebFramework\obj\Debug\net5.0\WebFramework.pdb
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\WebFramework\bin\Debug\net5.0\WebFramework.deps.json
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\WebFramework\bin\Debug\net5.0\WebFramework.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\WebFramework\bin\Debug\net5.0\ref\WebFramework.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\WebFramework\bin\Debug\net5.0\WebFramework.pdb
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\WebFramework\bin\Debug\net5.0\common.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\WebFramework\bin\Debug\net5.0\Data.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\WebFramework\bin\Debug\net5.0\Entities.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\WebFramework\bin\Debug\net5.0\Services.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\WebFramework\bin\Debug\net5.0\ViewModels.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\WebFramework\bin\Debug\net5.0\Services.pdb
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\WebFramework\bin\Debug\net5.0\common.pdb
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\WebFramework\bin\Debug\net5.0\Data.pdb
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\WebFramework\bin\Debug\net5.0\Entities.pdb
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\WebFramework\bin\Debug\net5.0\ViewModels.pdb
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\WebFramework\obj\Debug\net5.0\WebFramework.csprojAssemblyReference.cache
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\WebFramework\obj\Debug\net5.0\WebFramework.GeneratedMSBuildEditorConfig.editorconfig
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\WebFramework\obj\Debug\net5.0\WebFramework.AssemblyInfoInputs.cache
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\WebFramework\obj\Debug\net5.0\WebFramework.AssemblyInfo.cs
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\WebFramework\obj\Debug\net5.0\WebFramework.csproj.CoreCompileInputs.cache
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\WebFramework\obj\Debug\net5.0\WebFramework.csproj.CopyComplete
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\WebFramework\obj\Debug\net5.0\WebFramework.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\WebFramework\obj\Debug\net5.0\ref\WebFramework.dll
+D:\Course-samples\Api\Train\AccountManager - MainVersion - Copy\WebFramework\obj\Debug\net5.0\WebFramework.pdb
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\WebFramework\bin\Debug\net5.0\WebFramework.deps.json
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\WebFramework\bin\Debug\net5.0\WebFramework.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\WebFramework\bin\Debug\net5.0\ref\WebFramework.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\WebFramework\bin\Debug\net5.0\WebFramework.pdb
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\WebFramework\bin\Debug\net5.0\common.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\WebFramework\bin\Debug\net5.0\Data.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\WebFramework\bin\Debug\net5.0\Entities.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\WebFramework\bin\Debug\net5.0\Services.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\WebFramework\bin\Debug\net5.0\ViewModels.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\WebFramework\bin\Debug\net5.0\Services.pdb
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\WebFramework\bin\Debug\net5.0\common.pdb
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\WebFramework\bin\Debug\net5.0\Data.pdb
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\WebFramework\bin\Debug\net5.0\Entities.pdb
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\WebFramework\bin\Debug\net5.0\ViewModels.pdb
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\WebFramework\obj\Debug\net5.0\WebFramework.csprojAssemblyReference.cache
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\WebFramework\obj\Debug\net5.0\WebFramework.GeneratedMSBuildEditorConfig.editorconfig
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\WebFramework\obj\Debug\net5.0\WebFramework.AssemblyInfoInputs.cache
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\WebFramework\obj\Debug\net5.0\WebFramework.AssemblyInfo.cs
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\WebFramework\obj\Debug\net5.0\WebFramework.csproj.CoreCompileInputs.cache
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\WebFramework\obj\Debug\net5.0\WebFramework.csproj.CopyComplete
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\WebFramework\obj\Debug\net5.0\WebFramework.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\WebFramework\obj\Debug\net5.0\ref\WebFramework.dll
+D:\Course-samples\Api\Sample\AccountManager - MainVersion\WebFramework\obj\Debug\net5.0\WebFramework.pdb

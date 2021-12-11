@@ -1,0 +1,17 @@
+D:\Course-samples\Api\Train\AccountManager\Data\bin\Debug\netcoreapp3.1\Data.deps.json
+D:\Course-samples\Api\Train\AccountManager\Data\bin\Debug\netcoreapp3.1\Data.dll
+D:\Course-samples\Api\Train\AccountManager\Data\bin\Debug\netcoreapp3.1\Data.pdb
+D:\Course-samples\Api\Train\AccountManager\Data\bin\Debug\netcoreapp3.1\common.dll
+D:\Course-samples\Api\Train\AccountManager\Data\bin\Debug\netcoreapp3.1\Entities.dll
+D:\Course-samples\Api\Train\AccountManager\Data\bin\Debug\netcoreapp3.1\Entities.pdb
+D:\Course-samples\Api\Train\AccountManager\Data\bin\Debug\netcoreapp3.1\common.pdb
+D:\Course-samples\Api\Train\AccountManager\Data\obj\Debug\netcoreapp3.1\Data.csprojAssemblyReference.cache
+D:\Course-samples\Api\Train\AccountManager\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+D:\Course-samples\Api\Train\AccountManager\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+D:\Course-samples\Api\Train\AccountManager\Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+D:\Course-samples\Api\Train\AccountManager\Data\obj\Debug\netcoreapp3.1\Data.csproj.CopyComplete
+D:\Course-samples\Api\Train\AccountManager\Data\obj\Debug\netcoreapp3.1\Data.dll
+D:\Course-samples\Api\Train\AccountManager\Data\obj\Debug\netcoreapp3.1\Data.pdb
+D:\Course-samples\Api\Train\AccountManager\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.json
+D:\Course-samples\Api\Train\AccountManager\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.dev.json
+D:\Course-samples\Api\Train\AccountManager\Data\obj\Debug\netcoreapp3.1\Data.genruntimeconfig.cache

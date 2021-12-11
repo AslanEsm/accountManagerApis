@@ -1,0 +1,12 @@
+D:\Course-samples\Api\Train\AccountManager\common\bin\Debug\netcoreapp3.1\common.deps.json
+D:\Course-samples\Api\Train\AccountManager\common\bin\Debug\netcoreapp3.1\common.dll
+D:\Course-samples\Api\Train\AccountManager\common\bin\Debug\netcoreapp3.1\common.pdb
+D:\Course-samples\Api\Train\AccountManager\common\obj\Debug\netcoreapp3.1\common.csprojAssemblyReference.cache
+D:\Course-samples\Api\Train\AccountManager\common\obj\Debug\netcoreapp3.1\common.AssemblyInfoInputs.cache
+D:\Course-samples\Api\Train\AccountManager\common\obj\Debug\netcoreapp3.1\common.AssemblyInfo.cs
+D:\Course-samples\Api\Train\AccountManager\common\obj\Debug\netcoreapp3.1\common.csproj.CoreCompileInputs.cache
+D:\Course-samples\Api\Train\AccountManager\common\obj\Debug\netcoreapp3.1\common.dll
+D:\Course-samples\Api\Train\AccountManager\common\obj\Debug\netcoreapp3.1\common.pdb
+D:\Course-samples\Api\Train\AccountManager\common\bin\Debug\netcoreapp3.1\common.runtimeconfig.json
+D:\Course-samples\Api\Train\AccountManager\common\bin\Debug\netcoreapp3.1\common.runtimeconfig.dev.json
+D:\Course-samples\Api\Train\AccountManager\common\obj\Debug\netcoreapp3.1\common.genruntimeconfig.cache
